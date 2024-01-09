@@ -38,7 +38,7 @@ export default function App() {
   return (
           <View style={styles.container}>
             <Button title="Download From URL" onPress={downloadFromUrl} />
-            <Text style={styles.colorRed}>Hi! Sumit</Text>
+            <Text style={styles.colorRed}>Hi! Sumit what?</Text>
             <StatusBar style="auto" />
           </View>
   );
